@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/ios-filled/48/c-plus-plus.png" /></a>
-    <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/ios-filled/48/linux.png" /></a>
+    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/nolan/48/c-plus-plus.png" /></a>
+    <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/linux.png" /></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwindcss.png" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" /></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" /></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/color/48/c-programming.png" /></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://inkscape.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/inkscape.png"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/figma.png"/></a>
 </p>
 
 
