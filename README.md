@@ -25,12 +25,27 @@ Here are some ideas to get you started:
 <p><samp>
 🙋‍♂️ About Me
 
-- <img alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="25" /> &nbsp; I’m currently learning **WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- 🔭 &nbsp;&nbsp;&nbsp; I’m currently working on **Nestjs**
+
+- <img alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="25" /> &nbsp; I’m currently learning **Flutter & Ruby on rails** <img width="30%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Find me on: **lsinjali40@gmail.com**
+
+
+</samp>
+</p>
+<!--
+<p><samp>
+🙋‍♂️ About Me
+
+- <img alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="25" /> &nbsp; I’m currently learning **WebDev**. <img width="30%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Find me on: **lsinjali40@gmail.com**
 </samp>
 </p>
+-->
 
 <samp>🚀 Languages and Tools:</samp>
 
